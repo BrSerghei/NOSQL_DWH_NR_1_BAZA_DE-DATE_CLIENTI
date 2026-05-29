@@ -1,0 +1,21 @@
+{
+  "run_id": "B052305393995",
+  "total_documente_normalizate": 500,
+  "counts": {
+    "categorii": 5,
+    "branduri": 10,
+    "produse": 60,
+    "promotii": 25,
+    "magazine": 5,
+    "carduri_reducere": 40,
+    "clienti": 70,
+    "segmente_rfm": 70,
+    "comenzi": 50,
+    "linii_comanda": 100,
+    "companii": 10,
+    "contracte_angro": 10,
+    "comenzi_angro": 10,
+    "linii_comenzi_angro": 35
+  },
+  "sursa": "Nr.1 public + generat controlat"
+}

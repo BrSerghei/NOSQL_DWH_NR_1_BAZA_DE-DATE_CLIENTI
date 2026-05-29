@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "CAT052305393995001",
+    "id_categorie": "CAT052305393995001",
+    "denumire": "Produse alimentare B052305393995",
+    "descriere": "Categorie comercială utilizată în analiza Nr.1",
+    "sursa_tip": "public+generat_controlat",
+    "sursa_url": "https://nr1.md/ro/",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CAT052305393995002",
+    "id_categorie": "CAT052305393995002",
+    "denumire": "Băuturi B052305393995",
+    "descriere": "Categorie comercială utilizată în analiza Nr.1",
+    "sursa_tip": "public+generat_controlat",
+    "sursa_url": "https://nr1.md/ro/",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CAT052305393995003",
+    "id_categorie": "CAT052305393995003",
+    "denumire": "Igienă și curățenie B052305393995",
+    "descriere": "Categorie comercială utilizată în analiza Nr.1",
+    "sursa_tip": "public+generat_controlat",
+    "sursa_url": "https://nr1.md/ro/",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CAT052305393995004",
+    "id_categorie": "CAT052305393995004",
+    "denumire": "Produse pentru casă B052305393995",
+    "descriere": "Categorie comercială utilizată în analiza Nr.1",
+    "sursa_tip": "public+generat_controlat",
+    "sursa_url": "https://nr1.md/ro/",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CAT052305393995005",
+    "id_categorie": "CAT052305393995005",
+    "denumire": "Dulciuri B052305393995",
+    "descriere": "Categorie comercială utilizată în analiza Nr.1",
+    "sursa_tip": "public+generat_controlat",
+    "sursa_url": "https://nr1.md/ro/",
+    "lot_etl": "B052305393995"
+  }
+]

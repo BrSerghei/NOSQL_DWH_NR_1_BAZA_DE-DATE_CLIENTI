@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "BRD052305393995001",
+    "id_brand": "BRD052305393995001",
+    "denumire": "Nr.1 B052305393995-1",
+    "tara_origine": "Republica Moldova",
+    "sursa_tip": "public+generat_controlat",
+    "sursa_url": "https://nr1.md/ro/about/",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "BRD052305393995002",
+    "id_brand": "BRD052305393995002",
+    "denumire": "Bun Străbun B052305393995-2",
+    "tara_origine": "Republica Moldova",
+    "sursa_tip": "public+generat_controlat",
+    "sursa_url": "https://nr1.md/ro/about/",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "BRD052305393995003",
+    "id_brand": "BRD052305393995003",
+    "denumire": "Casa Rinaldi B052305393995-3",
+    "tara_origine": "Republica Moldova",
+    "sursa_tip": "public+generat_controlat",
+    "sursa_url": "https://nr1.md/ro/about/",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "BRD052305393995004",
+    "id_brand": "BRD052305393995004",
+    "denumire": "Deroni B052305393995-4",
+    "tara_origine": "Republica Moldova",
+    "sursa_tip": "public+generat_controlat",
+    "sursa_url": "https://nr1.md/ro/about/",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "BRD052305393995005",
+    "id_brand": "BRD052305393995005",
+    "denumire": "Barilla B052305393995-5",
+    "tara_origine": "Republica Moldova",
+    "sursa_tip": "public+generat_controlat",
+    "sursa_url": "https://nr1.md/ro/about/",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "BRD052305393995006",
+    "id_brand": "BRD052305393995006",
+    "denumire": "Nr.1 B052305393995-6",
+    "tara_origine": "Republica Moldova",
+    "sursa_tip": "public+generat_controlat",
+    "sursa_url": "https://nr1.md/ro/about/",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "BRD052305393995007",
+    "id_brand": "BRD052305393995007",
+    "denumire": "Bun Străbun B052305393995-7",
+    "tara_origine": "Republica Moldova",
+    "sursa_tip": "public+generat_controlat",
+    "sursa_url": "https://nr1.md/ro/about/",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "BRD052305393995008",
+    "id_brand": "BRD052305393995008",
+    "denumire": "Casa Rinaldi B052305393995-8",
+    "tara_origine": "Republica Moldova",
+    "sursa_tip": "public+generat_controlat",
+    "sursa_url": "https://nr1.md/ro/about/",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "BRD052305393995009",
+    "id_brand": "BRD052305393995009",
+    "denumire": "Deroni B052305393995-9",
+    "tara_origine": "Republica Moldova",
+    "sursa_tip": "public+generat_controlat",
+    "sursa_url": "https://nr1.md/ro/about/",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "BRD052305393995010",
+    "id_brand": "BRD052305393995010",
+    "denumire": "Barilla B052305393995-10",
+    "tara_origine": "Republica Moldova",
+    "sursa_tip": "public+generat_controlat",
+    "sursa_url": "https://nr1.md/ro/about/",
+    "lot_etl": "B052305393995"
+  }
+]

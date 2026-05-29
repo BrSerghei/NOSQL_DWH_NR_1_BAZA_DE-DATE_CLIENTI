@@ -1,0 +1,9 @@
+﻿Model,Operatie,Durata_secunde,Observatii
+MongoDB normalizat,CREATE,0.004706,Operatie executata pentru comparatie CRUD
+MongoDB normalizat,READ,0.010245,Citire prin referinte si agregare intre colectii
+MongoDB normalizat,UPDATE,0.00069,Modificare precisa pe documente separate
+MongoDB normalizat,DELETE,0.004777,Modificare precisa pe documente separate
+MongoDB denormalizat,CREATE,0.000711,Operatie executata pentru comparatie CRUD
+MongoDB denormalizat,READ,0.000713,Citire directa din document incorporat
+MongoDB denormalizat,UPDATE,0.000653,Modificare in document complex cu structuri incorporate
+MongoDB denormalizat,DELETE,0.000985,Modificare in document complex cu structuri incorporate

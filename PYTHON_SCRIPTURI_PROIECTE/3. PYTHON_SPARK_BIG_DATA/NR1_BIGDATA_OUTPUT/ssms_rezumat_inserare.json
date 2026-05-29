@@ -1,0 +1,31 @@
+{
+  "staging_inserted": {
+    "stg.Clienti_Normalizat": 70,
+    "stg.Clienti_Denormalizat": 70,
+    "stg.Produse_Normalizat": 60,
+    "stg.Produse_Denormalizat": 60,
+    "stg.Comenzi_Normalizat": 50,
+    "stg.Comenzi_Denormalizat": 50,
+    "stg.Companii_Normalizat": 10,
+    "stg.Companii_Denormalizat": 10
+  },
+  "counts": {
+    "stg.Clienti_Normalizat": 630,
+    "stg.Clienti_Denormalizat": 630,
+    "stg.Produse_Normalizat": 530,
+    "stg.Produse_Denormalizat": 530,
+    "stg.Comenzi_Normalizat": 475,
+    "stg.Comenzi_Denormalizat": 475,
+    "stg.Companii_Normalizat": 100,
+    "stg.Companii_Denormalizat": 100,
+    "dwh.DimClient": 1260,
+    "dwh.DimProdus": 1060,
+    "dwh.DimCompanie": 200,
+    "dwh.DimTimp": 117,
+    "dwh.FactVanzariComune": 1075,
+    "kpi.KPI_Clienti_B2C": 734,
+    "kpi.KPI_Produse_Promotii": 2,
+    "kpi.KPI_Companii_B2B": 100,
+    "kpi.KPI_Integrat": 887
+  }
+}

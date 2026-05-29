@@ -1,0 +1,1332 @@
+[
+  {
+    "_id": "CLI052305393995001",
+    "id_client": "CLI052305393995001",
+    "cod_client": "CLI052305393995001",
+    "nume": "Popescu",
+    "prenume": "Sergiu",
+    "telefon": "+373 71 625622",
+    "email": "sergiu.popescu.b052305393995.001@nr1-demo.md",
+    "data_inregistrare": "2021-01-18",
+    "card_reducere_id": "CRD052305393995001",
+    "magazin_preferat_id": "MAG052305393995001",
+    "preferinte_categorii": [
+      "CAT052305393995002",
+      "CAT052305393995004"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995002",
+    "id_client": "CLI052305393995002",
+    "cod_client": "CLI052305393995002",
+    "nume": "Rusu",
+    "prenume": "Olga",
+    "telefon": "+373 72 512052",
+    "email": "olga.rusu.b052305393995.002@nr1-demo.md",
+    "data_inregistrare": "2021-02-04",
+    "card_reducere_id": "CRD052305393995002",
+    "magazin_preferat_id": "MAG052305393995002",
+    "preferinte_categorii": [
+      "CAT052305393995003",
+      "CAT052305393995005"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995003",
+    "id_client": "CLI052305393995003",
+    "cod_client": "CLI052305393995003",
+    "nume": "Ceban",
+    "prenume": "Radu",
+    "telefon": "+373 73 090691",
+    "email": "radu.ceban.b052305393995.003@nr1-demo.md",
+    "data_inregistrare": "2021-02-21",
+    "card_reducere_id": "CRD052305393995003",
+    "magazin_preferat_id": "MAG052305393995003",
+    "preferinte_categorii": [
+      "CAT052305393995004",
+      "CAT052305393995001"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995004",
+    "id_client": "CLI052305393995004",
+    "cod_client": "CLI052305393995004",
+    "nume": "Balan",
+    "prenume": "Maxim",
+    "telefon": "+373 74 252267",
+    "email": "maxim.balan.b052305393995.004@nr1-demo.md",
+    "data_inregistrare": "2021-03-10",
+    "card_reducere_id": "CRD052305393995004",
+    "magazin_preferat_id": "MAG052305393995004",
+    "preferinte_categorii": [
+      "CAT052305393995005",
+      "CAT052305393995002"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995005",
+    "id_client": "CLI052305393995005",
+    "cod_client": "CLI052305393995005",
+    "nume": "Munteanu",
+    "prenume": "Ion",
+    "telefon": "+373 75 750702",
+    "email": "ion.munteanu.b052305393995.005@nr1-demo.md",
+    "data_inregistrare": "2021-03-27",
+    "card_reducere_id": "CRD052305393995005",
+    "magazin_preferat_id": "MAG052305393995005",
+    "preferinte_categorii": [
+      "CAT052305393995001",
+      "CAT052305393995003"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995006",
+    "id_client": "CLI052305393995006",
+    "cod_client": "CLI052305393995006",
+    "nume": "Moraru",
+    "prenume": "Alina",
+    "telefon": "+373 76 919716",
+    "email": "alina.moraru.b052305393995.006@nr1-demo.md",
+    "data_inregistrare": "2021-04-13",
+    "card_reducere_id": "CRD052305393995006",
+    "magazin_preferat_id": "MAG052305393995001",
+    "preferinte_categorii": [
+      "CAT052305393995002",
+      "CAT052305393995004"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995007",
+    "id_client": "CLI052305393995007",
+    "cod_client": "CLI052305393995007",
+    "nume": "Toma",
+    "prenume": "Andrei",
+    "telefon": "+373 77 531410",
+    "email": "andrei.toma.b052305393995.007@nr1-demo.md",
+    "data_inregistrare": "2021-04-30",
+    "card_reducere_id": "CRD052305393995007",
+    "magazin_preferat_id": "MAG052305393995002",
+    "preferinte_categorii": [
+      "CAT052305393995003",
+      "CAT052305393995005"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995008",
+    "id_client": "CLI052305393995008",
+    "cod_client": "CLI052305393995008",
+    "nume": "Țurcan",
+    "prenume": "Petru",
+    "telefon": "+373 78 929072",
+    "email": "petru.turcan.b052305393995.008@nr1-demo.md",
+    "data_inregistrare": "2021-05-17",
+    "card_reducere_id": "CRD052305393995008",
+    "magazin_preferat_id": "MAG052305393995003",
+    "preferinte_categorii": [
+      "CAT052305393995004",
+      "CAT052305393995001"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995009",
+    "id_client": "CLI052305393995009",
+    "cod_client": "CLI052305393995009",
+    "nume": "Ursu",
+    "prenume": "Elena",
+    "telefon": "+373 79 142957",
+    "email": "elena.ursu.b052305393995.009@nr1-demo.md",
+    "data_inregistrare": "2021-06-03",
+    "card_reducere_id": "CRD052305393995009",
+    "magazin_preferat_id": "MAG052305393995004",
+    "preferinte_categorii": [
+      "CAT052305393995005",
+      "CAT052305393995002"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995010",
+    "id_client": "CLI052305393995010",
+    "cod_client": "CLI052305393995010",
+    "nume": "Cojocaru",
+    "prenume": "Maria",
+    "telefon": "+373 70 100482",
+    "email": "maria.cojocaru.b052305393995.010@nr1-demo.md",
+    "data_inregistrare": "2021-06-20",
+    "card_reducere_id": "CRD052305393995010",
+    "magazin_preferat_id": "MAG052305393995005",
+    "preferinte_categorii": [
+      "CAT052305393995001",
+      "CAT052305393995003"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995011",
+    "id_client": "CLI052305393995011",
+    "cod_client": "CLI052305393995011",
+    "nume": "Sandu",
+    "prenume": "Victor",
+    "telefon": "+373 71 446686",
+    "email": "victor.sandu.b052305393995.011@nr1-demo.md",
+    "data_inregistrare": "2021-07-07",
+    "card_reducere_id": "CRD052305393995011",
+    "magazin_preferat_id": "MAG052305393995001",
+    "preferinte_categorii": [
+      "CAT052305393995002",
+      "CAT052305393995004"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995012",
+    "id_client": "CLI052305393995012",
+    "cod_client": "CLI052305393995012",
+    "nume": "Lungu",
+    "prenume": "Irina",
+    "telefon": "+373 72 589346",
+    "email": "irina.lungu.b052305393995.012@nr1-demo.md",
+    "data_inregistrare": "2021-07-24",
+    "card_reducere_id": "CRD052305393995012",
+    "magazin_preferat_id": "MAG052305393995002",
+    "preferinte_categorii": [
+      "CAT052305393995003",
+      "CAT052305393995005"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995013",
+    "id_client": "CLI052305393995013",
+    "cod_client": "CLI052305393995013",
+    "nume": "Botezatu",
+    "prenume": "Nina",
+    "telefon": "+373 73 706145",
+    "email": "nina.botezatu.b052305393995.013@nr1-demo.md",
+    "data_inregistrare": "2021-08-10",
+    "card_reducere_id": "CRD052305393995013",
+    "magazin_preferat_id": "MAG052305393995003",
+    "preferinte_categorii": [
+      "CAT052305393995004",
+      "CAT052305393995001"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995014",
+    "id_client": "CLI052305393995014",
+    "cod_client": "CLI052305393995014",
+    "nume": "Guțu",
+    "prenume": "Ana",
+    "telefon": "+373 74 658692",
+    "email": "ana.gutu.b052305393995.014@nr1-demo.md",
+    "data_inregistrare": "2021-08-27",
+    "card_reducere_id": "CRD052305393995014",
+    "magazin_preferat_id": "MAG052305393995004",
+    "preferinte_categorii": [
+      "CAT052305393995005",
+      "CAT052305393995002"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995015",
+    "id_client": "CLI052305393995015",
+    "cod_client": "CLI052305393995015",
+    "nume": "Popescu",
+    "prenume": "Sergiu",
+    "telefon": "+373 75 814134",
+    "email": "sergiu.popescu.b052305393995.015@nr1-demo.md",
+    "data_inregistrare": "2021-09-13",
+    "card_reducere_id": "CRD052305393995015",
+    "magazin_preferat_id": "MAG052305393995005",
+    "preferinte_categorii": [
+      "CAT052305393995001",
+      "CAT052305393995003"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995016",
+    "id_client": "CLI052305393995016",
+    "cod_client": "CLI052305393995016",
+    "nume": "Rusu",
+    "prenume": "Olga",
+    "telefon": "+373 76 009601",
+    "email": "olga.rusu.b052305393995.016@nr1-demo.md",
+    "data_inregistrare": "2021-09-30",
+    "card_reducere_id": "CRD052305393995016",
+    "magazin_preferat_id": "MAG052305393995001",
+    "preferinte_categorii": [
+      "CAT052305393995002",
+      "CAT052305393995004"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995017",
+    "id_client": "CLI052305393995017",
+    "cod_client": "CLI052305393995017",
+    "nume": "Ceban",
+    "prenume": "Radu",
+    "telefon": "+373 77 792800",
+    "email": "radu.ceban.b052305393995.017@nr1-demo.md",
+    "data_inregistrare": "2021-10-17",
+    "card_reducere_id": "CRD052305393995017",
+    "magazin_preferat_id": "MAG052305393995002",
+    "preferinte_categorii": [
+      "CAT052305393995003",
+      "CAT052305393995005"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995018",
+    "id_client": "CLI052305393995018",
+    "cod_client": "CLI052305393995018",
+    "nume": "Balan",
+    "prenume": "Maxim",
+    "telefon": "+373 78 967374",
+    "email": "maxim.balan.b052305393995.018@nr1-demo.md",
+    "data_inregistrare": "2021-11-03",
+    "card_reducere_id": "CRD052305393995018",
+    "magazin_preferat_id": "MAG052305393995003",
+    "preferinte_categorii": [
+      "CAT052305393995004",
+      "CAT052305393995001"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995019",
+    "id_client": "CLI052305393995019",
+    "cod_client": "CLI052305393995019",
+    "nume": "Munteanu",
+    "prenume": "Ion",
+    "telefon": "+373 79 149073",
+    "email": "ion.munteanu.b052305393995.019@nr1-demo.md",
+    "data_inregistrare": "2021-11-20",
+    "card_reducere_id": "CRD052305393995019",
+    "magazin_preferat_id": "MAG052305393995004",
+    "preferinte_categorii": [
+      "CAT052305393995005",
+      "CAT052305393995002"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995020",
+    "id_client": "CLI052305393995020",
+    "cod_client": "CLI052305393995020",
+    "nume": "Moraru",
+    "prenume": "Alina",
+    "telefon": "+373 70 669018",
+    "email": "alina.moraru.b052305393995.020@nr1-demo.md",
+    "data_inregistrare": "2021-12-07",
+    "card_reducere_id": "CRD052305393995020",
+    "magazin_preferat_id": "MAG052305393995005",
+    "preferinte_categorii": [
+      "CAT052305393995001",
+      "CAT052305393995003"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995021",
+    "id_client": "CLI052305393995021",
+    "cod_client": "CLI052305393995021",
+    "nume": "Toma",
+    "prenume": "Andrei",
+    "telefon": "+373 71 463428",
+    "email": "andrei.toma.b052305393995.021@nr1-demo.md",
+    "data_inregistrare": "2021-12-24",
+    "card_reducere_id": "CRD052305393995021",
+    "magazin_preferat_id": "MAG052305393995001",
+    "preferinte_categorii": [
+      "CAT052305393995002",
+      "CAT052305393995004"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995022",
+    "id_client": "CLI052305393995022",
+    "cod_client": "CLI052305393995022",
+    "nume": "Țurcan",
+    "prenume": "Petru",
+    "telefon": "+373 72 344037",
+    "email": "petru.turcan.b052305393995.022@nr1-demo.md",
+    "data_inregistrare": "2022-01-10",
+    "card_reducere_id": "CRD052305393995022",
+    "magazin_preferat_id": "MAG052305393995002",
+    "preferinte_categorii": [
+      "CAT052305393995003",
+      "CAT052305393995005"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995023",
+    "id_client": "CLI052305393995023",
+    "cod_client": "CLI052305393995023",
+    "nume": "Ursu",
+    "prenume": "Elena",
+    "telefon": "+373 73 173916",
+    "email": "elena.ursu.b052305393995.023@nr1-demo.md",
+    "data_inregistrare": "2022-01-27",
+    "card_reducere_id": "CRD052305393995023",
+    "magazin_preferat_id": "MAG052305393995003",
+    "preferinte_categorii": [
+      "CAT052305393995004",
+      "CAT052305393995001"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995024",
+    "id_client": "CLI052305393995024",
+    "cod_client": "CLI052305393995024",
+    "nume": "Cojocaru",
+    "prenume": "Maria",
+    "telefon": "+373 74 386397",
+    "email": "maria.cojocaru.b052305393995.024@nr1-demo.md",
+    "data_inregistrare": "2022-02-13",
+    "card_reducere_id": "CRD052305393995024",
+    "magazin_preferat_id": "MAG052305393995004",
+    "preferinte_categorii": [
+      "CAT052305393995005",
+      "CAT052305393995002"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995025",
+    "id_client": "CLI052305393995025",
+    "cod_client": "CLI052305393995025",
+    "nume": "Sandu",
+    "prenume": "Victor",
+    "telefon": "+373 75 553336",
+    "email": "victor.sandu.b052305393995.025@nr1-demo.md",
+    "data_inregistrare": "2022-03-02",
+    "card_reducere_id": "CRD052305393995025",
+    "magazin_preferat_id": "MAG052305393995005",
+    "preferinte_categorii": [
+      "CAT052305393995001",
+      "CAT052305393995003"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995026",
+    "id_client": "CLI052305393995026",
+    "cod_client": "CLI052305393995026",
+    "nume": "Lungu",
+    "prenume": "Irina",
+    "telefon": "+373 76 789344",
+    "email": "irina.lungu.b052305393995.026@nr1-demo.md",
+    "data_inregistrare": "2022-03-19",
+    "card_reducere_id": "CRD052305393995026",
+    "magazin_preferat_id": "MAG052305393995001",
+    "preferinte_categorii": [
+      "CAT052305393995002",
+      "CAT052305393995004"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995027",
+    "id_client": "CLI052305393995027",
+    "cod_client": "CLI052305393995027",
+    "nume": "Botezatu",
+    "prenume": "Nina",
+    "telefon": "+373 77 821993",
+    "email": "nina.botezatu.b052305393995.027@nr1-demo.md",
+    "data_inregistrare": "2022-04-05",
+    "card_reducere_id": "CRD052305393995027",
+    "magazin_preferat_id": "MAG052305393995002",
+    "preferinte_categorii": [
+      "CAT052305393995003",
+      "CAT052305393995005"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995028",
+    "id_client": "CLI052305393995028",
+    "cod_client": "CLI052305393995028",
+    "nume": "Guțu",
+    "prenume": "Ana",
+    "telefon": "+373 78 943229",
+    "email": "ana.gutu.b052305393995.028@nr1-demo.md",
+    "data_inregistrare": "2022-04-22",
+    "card_reducere_id": "CRD052305393995028",
+    "magazin_preferat_id": "MAG052305393995003",
+    "preferinte_categorii": [
+      "CAT052305393995004",
+      "CAT052305393995001"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995029",
+    "id_client": "CLI052305393995029",
+    "cod_client": "CLI052305393995029",
+    "nume": "Popescu",
+    "prenume": "Sergiu",
+    "telefon": "+373 79 319332",
+    "email": "sergiu.popescu.b052305393995.029@nr1-demo.md",
+    "data_inregistrare": "2022-05-09",
+    "card_reducere_id": "CRD052305393995029",
+    "magazin_preferat_id": "MAG052305393995004",
+    "preferinte_categorii": [
+      "CAT052305393995005",
+      "CAT052305393995002"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995030",
+    "id_client": "CLI052305393995030",
+    "cod_client": "CLI052305393995030",
+    "nume": "Rusu",
+    "prenume": "Olga",
+    "telefon": "+373 70 112573",
+    "email": "olga.rusu.b052305393995.030@nr1-demo.md",
+    "data_inregistrare": "2022-05-26",
+    "card_reducere_id": "CRD052305393995030",
+    "magazin_preferat_id": "MAG052305393995005",
+    "preferinte_categorii": [
+      "CAT052305393995001",
+      "CAT052305393995003"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995031",
+    "id_client": "CLI052305393995031",
+    "cod_client": "CLI052305393995031",
+    "nume": "Ceban",
+    "prenume": "Radu",
+    "telefon": "+373 71 970616",
+    "email": "radu.ceban.b052305393995.031@nr1-demo.md",
+    "data_inregistrare": "2022-06-12",
+    "card_reducere_id": "CRD052305393995031",
+    "magazin_preferat_id": "MAG052305393995001",
+    "preferinte_categorii": [
+      "CAT052305393995002",
+      "CAT052305393995004"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995032",
+    "id_client": "CLI052305393995032",
+    "cod_client": "CLI052305393995032",
+    "nume": "Balan",
+    "prenume": "Maxim",
+    "telefon": "+373 72 407967",
+    "email": "maxim.balan.b052305393995.032@nr1-demo.md",
+    "data_inregistrare": "2022-06-29",
+    "card_reducere_id": "CRD052305393995032",
+    "magazin_preferat_id": "MAG052305393995002",
+    "preferinte_categorii": [
+      "CAT052305393995003",
+      "CAT052305393995005"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995033",
+    "id_client": "CLI052305393995033",
+    "cod_client": "CLI052305393995033",
+    "nume": "Munteanu",
+    "prenume": "Ion",
+    "telefon": "+373 73 833595",
+    "email": "ion.munteanu.b052305393995.033@nr1-demo.md",
+    "data_inregistrare": "2022-07-16",
+    "card_reducere_id": "CRD052305393995033",
+    "magazin_preferat_id": "MAG052305393995003",
+    "preferinte_categorii": [
+      "CAT052305393995004",
+      "CAT052305393995001"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995034",
+    "id_client": "CLI052305393995034",
+    "cod_client": "CLI052305393995034",
+    "nume": "Moraru",
+    "prenume": "Alina",
+    "telefon": "+373 74 136505",
+    "email": "alina.moraru.b052305393995.034@nr1-demo.md",
+    "data_inregistrare": "2022-08-02",
+    "card_reducere_id": "CRD052305393995034",
+    "magazin_preferat_id": "MAG052305393995004",
+    "preferinte_categorii": [
+      "CAT052305393995005",
+      "CAT052305393995002"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995035",
+    "id_client": "CLI052305393995035",
+    "cod_client": "CLI052305393995035",
+    "nume": "Toma",
+    "prenume": "Andrei",
+    "telefon": "+373 75 549678",
+    "email": "andrei.toma.b052305393995.035@nr1-demo.md",
+    "data_inregistrare": "2022-08-19",
+    "card_reducere_id": "CRD052305393995035",
+    "magazin_preferat_id": "MAG052305393995005",
+    "preferinte_categorii": [
+      "CAT052305393995001",
+      "CAT052305393995003"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995036",
+    "id_client": "CLI052305393995036",
+    "cod_client": "CLI052305393995036",
+    "nume": "Țurcan",
+    "prenume": "Petru",
+    "telefon": "+373 76 939285",
+    "email": "petru.turcan.b052305393995.036@nr1-demo.md",
+    "data_inregistrare": "2022-09-05",
+    "card_reducere_id": "CRD052305393995036",
+    "magazin_preferat_id": "MAG052305393995001",
+    "preferinte_categorii": [
+      "CAT052305393995002",
+      "CAT052305393995004"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995037",
+    "id_client": "CLI052305393995037",
+    "cod_client": "CLI052305393995037",
+    "nume": "Ursu",
+    "prenume": "Elena",
+    "telefon": "+373 77 992367",
+    "email": "elena.ursu.b052305393995.037@nr1-demo.md",
+    "data_inregistrare": "2022-09-22",
+    "card_reducere_id": "CRD052305393995037",
+    "magazin_preferat_id": "MAG052305393995002",
+    "preferinte_categorii": [
+      "CAT052305393995003",
+      "CAT052305393995005"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995038",
+    "id_client": "CLI052305393995038",
+    "cod_client": "CLI052305393995038",
+    "nume": "Cojocaru",
+    "prenume": "Maria",
+    "telefon": "+373 78 716615",
+    "email": "maria.cojocaru.b052305393995.038@nr1-demo.md",
+    "data_inregistrare": "2022-10-09",
+    "card_reducere_id": "CRD052305393995038",
+    "magazin_preferat_id": "MAG052305393995003",
+    "preferinte_categorii": [
+      "CAT052305393995004",
+      "CAT052305393995001"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995039",
+    "id_client": "CLI052305393995039",
+    "cod_client": "CLI052305393995039",
+    "nume": "Sandu",
+    "prenume": "Victor",
+    "telefon": "+373 79 962716",
+    "email": "victor.sandu.b052305393995.039@nr1-demo.md",
+    "data_inregistrare": "2022-10-26",
+    "card_reducere_id": "CRD052305393995039",
+    "magazin_preferat_id": "MAG052305393995004",
+    "preferinte_categorii": [
+      "CAT052305393995005",
+      "CAT052305393995002"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995040",
+    "id_client": "CLI052305393995040",
+    "cod_client": "CLI052305393995040",
+    "nume": "Lungu",
+    "prenume": "Irina",
+    "telefon": "+373 70 839595",
+    "email": "irina.lungu.b052305393995.040@nr1-demo.md",
+    "data_inregistrare": "2022-11-12",
+    "card_reducere_id": "CRD052305393995040",
+    "magazin_preferat_id": "MAG052305393995005",
+    "preferinte_categorii": [
+      "CAT052305393995001",
+      "CAT052305393995003"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995041",
+    "id_client": "CLI052305393995041",
+    "cod_client": "CLI052305393995041",
+    "nume": "Botezatu",
+    "prenume": "Nina",
+    "telefon": "+373 71 609052",
+    "email": "nina.botezatu.b052305393995.041@nr1-demo.md",
+    "data_inregistrare": "2022-11-29",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995001",
+    "preferinte_categorii": [
+      "CAT052305393995002",
+      "CAT052305393995004"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995042",
+    "id_client": "CLI052305393995042",
+    "cod_client": "CLI052305393995042",
+    "nume": "Guțu",
+    "prenume": "Ana",
+    "telefon": "+373 72 606900",
+    "email": "ana.gutu.b052305393995.042@nr1-demo.md",
+    "data_inregistrare": "2022-12-16",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995002",
+    "preferinte_categorii": [
+      "CAT052305393995003",
+      "CAT052305393995005"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995043",
+    "id_client": "CLI052305393995043",
+    "cod_client": "CLI052305393995043",
+    "nume": "Popescu",
+    "prenume": "Sergiu",
+    "telefon": "+373 73 791918",
+    "email": "sergiu.popescu.b052305393995.043@nr1-demo.md",
+    "data_inregistrare": "2023-01-02",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995003",
+    "preferinte_categorii": [
+      "CAT052305393995004",
+      "CAT052305393995001"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995044",
+    "id_client": "CLI052305393995044",
+    "cod_client": "CLI052305393995044",
+    "nume": "Rusu",
+    "prenume": "Olga",
+    "telefon": "+373 74 600249",
+    "email": "olga.rusu.b052305393995.044@nr1-demo.md",
+    "data_inregistrare": "2023-01-19",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995004",
+    "preferinte_categorii": [
+      "CAT052305393995005",
+      "CAT052305393995002"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995045",
+    "id_client": "CLI052305393995045",
+    "cod_client": "CLI052305393995045",
+    "nume": "Ceban",
+    "prenume": "Radu",
+    "telefon": "+373 75 186310",
+    "email": "radu.ceban.b052305393995.045@nr1-demo.md",
+    "data_inregistrare": "2023-02-05",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995005",
+    "preferinte_categorii": [
+      "CAT052305393995001",
+      "CAT052305393995003"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995046",
+    "id_client": "CLI052305393995046",
+    "cod_client": "CLI052305393995046",
+    "nume": "Balan",
+    "prenume": "Maxim",
+    "telefon": "+373 76 518494",
+    "email": "maxim.balan.b052305393995.046@nr1-demo.md",
+    "data_inregistrare": "2023-02-22",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995001",
+    "preferinte_categorii": [
+      "CAT052305393995002",
+      "CAT052305393995004"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995047",
+    "id_client": "CLI052305393995047",
+    "cod_client": "CLI052305393995047",
+    "nume": "Munteanu",
+    "prenume": "Ion",
+    "telefon": "+373 77 850669",
+    "email": "ion.munteanu.b052305393995.047@nr1-demo.md",
+    "data_inregistrare": "2023-03-11",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995002",
+    "preferinte_categorii": [
+      "CAT052305393995003",
+      "CAT052305393995005"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995048",
+    "id_client": "CLI052305393995048",
+    "cod_client": "CLI052305393995048",
+    "nume": "Moraru",
+    "prenume": "Alina",
+    "telefon": "+373 78 934023",
+    "email": "alina.moraru.b052305393995.048@nr1-demo.md",
+    "data_inregistrare": "2023-03-28",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995003",
+    "preferinte_categorii": [
+      "CAT052305393995004",
+      "CAT052305393995001"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995049",
+    "id_client": "CLI052305393995049",
+    "cod_client": "CLI052305393995049",
+    "nume": "Toma",
+    "prenume": "Andrei",
+    "telefon": "+373 79 504267",
+    "email": "andrei.toma.b052305393995.049@nr1-demo.md",
+    "data_inregistrare": "2023-04-14",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995004",
+    "preferinte_categorii": [
+      "CAT052305393995005",
+      "CAT052305393995002"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995050",
+    "id_client": "CLI052305393995050",
+    "cod_client": "CLI052305393995050",
+    "nume": "Țurcan",
+    "prenume": "Petru",
+    "telefon": "+373 70 284542",
+    "email": "petru.turcan.b052305393995.050@nr1-demo.md",
+    "data_inregistrare": "2023-05-01",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995005",
+    "preferinte_categorii": [
+      "CAT052305393995001",
+      "CAT052305393995003"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995051",
+    "id_client": "CLI052305393995051",
+    "cod_client": "CLI052305393995051",
+    "nume": "Ursu",
+    "prenume": "Elena",
+    "telefon": "+373 71 241654",
+    "email": "elena.ursu.b052305393995.051@nr1-demo.md",
+    "data_inregistrare": "2023-05-18",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995001",
+    "preferinte_categorii": [
+      "CAT052305393995002",
+      "CAT052305393995004"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995052",
+    "id_client": "CLI052305393995052",
+    "cod_client": "CLI052305393995052",
+    "nume": "Cojocaru",
+    "prenume": "Maria",
+    "telefon": "+373 72 684226",
+    "email": "maria.cojocaru.b052305393995.052@nr1-demo.md",
+    "data_inregistrare": "2023-06-04",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995002",
+    "preferinte_categorii": [
+      "CAT052305393995003",
+      "CAT052305393995005"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995053",
+    "id_client": "CLI052305393995053",
+    "cod_client": "CLI052305393995053",
+    "nume": "Sandu",
+    "prenume": "Victor",
+    "telefon": "+373 73 511341",
+    "email": "victor.sandu.b052305393995.053@nr1-demo.md",
+    "data_inregistrare": "2023-06-21",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995003",
+    "preferinte_categorii": [
+      "CAT052305393995004",
+      "CAT052305393995001"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995054",
+    "id_client": "CLI052305393995054",
+    "cod_client": "CLI052305393995054",
+    "nume": "Lungu",
+    "prenume": "Irina",
+    "telefon": "+373 74 895824",
+    "email": "irina.lungu.b052305393995.054@nr1-demo.md",
+    "data_inregistrare": "2023-07-08",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995004",
+    "preferinte_categorii": [
+      "CAT052305393995005",
+      "CAT052305393995002"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995055",
+    "id_client": "CLI052305393995055",
+    "cod_client": "CLI052305393995055",
+    "nume": "Botezatu",
+    "prenume": "Nina",
+    "telefon": "+373 75 255552",
+    "email": "nina.botezatu.b052305393995.055@nr1-demo.md",
+    "data_inregistrare": "2023-07-25",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995005",
+    "preferinte_categorii": [
+      "CAT052305393995001",
+      "CAT052305393995003"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995056",
+    "id_client": "CLI052305393995056",
+    "cod_client": "CLI052305393995056",
+    "nume": "Guțu",
+    "prenume": "Ana",
+    "telefon": "+373 76 482926",
+    "email": "ana.gutu.b052305393995.056@nr1-demo.md",
+    "data_inregistrare": "2023-08-11",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995001",
+    "preferinte_categorii": [
+      "CAT052305393995002",
+      "CAT052305393995004"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995057",
+    "id_client": "CLI052305393995057",
+    "cod_client": "CLI052305393995057",
+    "nume": "Popescu",
+    "prenume": "Sergiu",
+    "telefon": "+373 77 274878",
+    "email": "sergiu.popescu.b052305393995.057@nr1-demo.md",
+    "data_inregistrare": "2023-08-28",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995002",
+    "preferinte_categorii": [
+      "CAT052305393995003",
+      "CAT052305393995005"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995058",
+    "id_client": "CLI052305393995058",
+    "cod_client": "CLI052305393995058",
+    "nume": "Rusu",
+    "prenume": "Olga",
+    "telefon": "+373 78 611937",
+    "email": "olga.rusu.b052305393995.058@nr1-demo.md",
+    "data_inregistrare": "2023-09-14",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995003",
+    "preferinte_categorii": [
+      "CAT052305393995004",
+      "CAT052305393995001"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995059",
+    "id_client": "CLI052305393995059",
+    "cod_client": "CLI052305393995059",
+    "nume": "Ceban",
+    "prenume": "Radu",
+    "telefon": "+373 79 598565",
+    "email": "radu.ceban.b052305393995.059@nr1-demo.md",
+    "data_inregistrare": "2023-10-01",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995004",
+    "preferinte_categorii": [
+      "CAT052305393995005",
+      "CAT052305393995002"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995060",
+    "id_client": "CLI052305393995060",
+    "cod_client": "CLI052305393995060",
+    "nume": "Balan",
+    "prenume": "Maxim",
+    "telefon": "+373 70 890873",
+    "email": "maxim.balan.b052305393995.060@nr1-demo.md",
+    "data_inregistrare": "2023-10-18",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995005",
+    "preferinte_categorii": [
+      "CAT052305393995001",
+      "CAT052305393995003"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995061",
+    "id_client": "CLI052305393995061",
+    "cod_client": "CLI052305393995061",
+    "nume": "Munteanu",
+    "prenume": "Ion",
+    "telefon": "+373 71 027697",
+    "email": "ion.munteanu.b052305393995.061@nr1-demo.md",
+    "data_inregistrare": "2023-11-04",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995001",
+    "preferinte_categorii": [
+      "CAT052305393995002",
+      "CAT052305393995004"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995062",
+    "id_client": "CLI052305393995062",
+    "cod_client": "CLI052305393995062",
+    "nume": "Moraru",
+    "prenume": "Alina",
+    "telefon": "+373 72 311943",
+    "email": "alina.moraru.b052305393995.062@nr1-demo.md",
+    "data_inregistrare": "2023-11-21",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995002",
+    "preferinte_categorii": [
+      "CAT052305393995003",
+      "CAT052305393995005"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995063",
+    "id_client": "CLI052305393995063",
+    "cod_client": "CLI052305393995063",
+    "nume": "Toma",
+    "prenume": "Andrei",
+    "telefon": "+373 73 107676",
+    "email": "andrei.toma.b052305393995.063@nr1-demo.md",
+    "data_inregistrare": "2023-12-08",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995003",
+    "preferinte_categorii": [
+      "CAT052305393995004",
+      "CAT052305393995001"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995064",
+    "id_client": "CLI052305393995064",
+    "cod_client": "CLI052305393995064",
+    "nume": "Țurcan",
+    "prenume": "Petru",
+    "telefon": "+373 74 618722",
+    "email": "petru.turcan.b052305393995.064@nr1-demo.md",
+    "data_inregistrare": "2023-12-25",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995004",
+    "preferinte_categorii": [
+      "CAT052305393995005",
+      "CAT052305393995002"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995065",
+    "id_client": "CLI052305393995065",
+    "cod_client": "CLI052305393995065",
+    "nume": "Ursu",
+    "prenume": "Elena",
+    "telefon": "+373 75 017861",
+    "email": "elena.ursu.b052305393995.065@nr1-demo.md",
+    "data_inregistrare": "2024-01-11",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995005",
+    "preferinte_categorii": [
+      "CAT052305393995001",
+      "CAT052305393995003"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995066",
+    "id_client": "CLI052305393995066",
+    "cod_client": "CLI052305393995066",
+    "nume": "Cojocaru",
+    "prenume": "Maria",
+    "telefon": "+373 76 150651",
+    "email": "maria.cojocaru.b052305393995.066@nr1-demo.md",
+    "data_inregistrare": "2024-01-28",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995001",
+    "preferinte_categorii": [
+      "CAT052305393995002",
+      "CAT052305393995004"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995067",
+    "id_client": "CLI052305393995067",
+    "cod_client": "CLI052305393995067",
+    "nume": "Sandu",
+    "prenume": "Victor",
+    "telefon": "+373 77 819541",
+    "email": "victor.sandu.b052305393995.067@nr1-demo.md",
+    "data_inregistrare": "2024-02-14",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995002",
+    "preferinte_categorii": [
+      "CAT052305393995003",
+      "CAT052305393995005"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995068",
+    "id_client": "CLI052305393995068",
+    "cod_client": "CLI052305393995068",
+    "nume": "Lungu",
+    "prenume": "Irina",
+    "telefon": "+373 78 213574",
+    "email": "irina.lungu.b052305393995.068@nr1-demo.md",
+    "data_inregistrare": "2024-03-02",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995003",
+    "preferinte_categorii": [
+      "CAT052305393995004",
+      "CAT052305393995001"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995069",
+    "id_client": "CLI052305393995069",
+    "cod_client": "CLI052305393995069",
+    "nume": "Botezatu",
+    "prenume": "Nina",
+    "telefon": "+373 79 129584",
+    "email": "nina.botezatu.b052305393995.069@nr1-demo.md",
+    "data_inregistrare": "2024-03-19",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995004",
+    "preferinte_categorii": [
+      "CAT052305393995005",
+      "CAT052305393995002"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  },
+  {
+    "_id": "CLI052305393995070",
+    "id_client": "CLI052305393995070",
+    "cod_client": "CLI052305393995070",
+    "nume": "Guțu",
+    "prenume": "Ana",
+    "telefon": "+373 70 718037",
+    "email": "ana.gutu.b052305393995.070@nr1-demo.md",
+    "data_inregistrare": "2024-04-05",
+    "card_reducere_id": null,
+    "magazin_preferat_id": "MAG052305393995005",
+    "preferinte_categorii": [
+      "CAT052305393995001",
+      "CAT052305393995003"
+    ],
+    "activ": true,
+    "sursa_tip": "generat_controlat",
+    "lot_etl": "B052305393995"
+  }
+]
