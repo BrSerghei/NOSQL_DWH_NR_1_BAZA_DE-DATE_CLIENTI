@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "CAT001",
+    "cod_categorie": "CAT001",
+    "denumire": "Lactate și ouă",
+    "slug": "lactate-oua",
+    "tip": "alimentar",
+    "nivel": 1,
+    "activa": true,
+    "sursa_url": "https://nr1.md/ro/catalog/",
+    "id_categorie": "CAT001"
+  },
+  {
+    "_id": "CAT002",
+    "cod_categorie": "CAT002",
+    "denumire": "Carne și mezeluri",
+    "slug": "carne-mezeluri",
+    "tip": "alimentar",
+    "nivel": 1,
+    "activa": true,
+    "sursa_url": "https://nr1.md/ro/catalog/",
+    "id_categorie": "CAT002"
+  },
+  {
+    "_id": "CAT003",
+    "cod_categorie": "CAT003",
+    "denumire": "Pește și fructe de mare",
+    "slug": "peste-fructe-de-mare",
+    "tip": "alimentar",
+    "nivel": 1,
+    "activa": true,
+    "sursa_url": "https://nr1.md/ro/catalog/",
+    "id_categorie": "CAT003"
+  },
+  {
+    "_id": "CAT004",
+    "cod_categorie": "CAT004",
+    "denumire": "Paste, cereale și panificație",
+    "slug": "paste-cereale-panificatie",
+    "tip": "alimentar",
+    "nivel": 1,
+    "activa": true,
+    "sursa_url": "https://nr1.md/ro/catalog/",
+    "id_categorie": "CAT004"
+  },
+  {
+    "_id": "CAT005",
+    "cod_categorie": "CAT005",
+    "denumire": "Băuturi",
+    "slug": "bauturi",
+    "tip": "alimentar",
+    "nivel": 1,
+    "activa": true,
+    "sursa_url": "https://nr1.md/ro/catalog/",
+    "id_categorie": "CAT005"
+  },
+  {
+    "_id": "CAT006",
+    "cod_categorie": "CAT006",
+    "denumire": "Fructe și legume",
+    "slug": "fructe-legume",
+    "tip": "alimentar",
+    "nivel": 1,
+    "activa": true,
+    "sursa_url": "https://nr1.md/ro/catalog/",
+    "id_categorie": "CAT006"
+  },
+  {
+    "_id": "CAT007",
+    "cod_categorie": "CAT007",
+    "denumire": "Dulciuri și snacksuri",
+    "slug": "dulciuri-snacksuri",
+    "tip": "alimentar",
+    "nivel": 1,
+    "activa": true,
+    "sursa_url": "https://nr1.md/ro/catalog/",
+    "id_categorie": "CAT007"
+  },
+  {
+    "_id": "CAT008",
+    "cod_categorie": "CAT008",
+    "denumire": "Produse de curățenie",
+    "slug": "produse-curatenie",
+    "tip": "nealimentar",
+    "nivel": 1,
+    "activa": true,
+    "sursa_url": "https://nr1.md/ro/catalog/",
+    "id_categorie": "CAT008"
+  },
+  {
+    "_id": "CAT009",
+    "cod_categorie": "CAT009",
+    "denumire": "Igienă personală",
+    "slug": "igiena-personala",
+    "tip": "nealimentar",
+    "nivel": 1,
+    "activa": true,
+    "sursa_url": "https://nr1.md/ro/catalog/",
+    "id_categorie": "CAT009"
+  },
+  {
+    "_id": "CAT010",
+    "cod_categorie": "CAT010",
+    "denumire": "Gastronomie și ready-to-eat",
+    "slug": "gastronomie",
+    "tip": "alimentar",
+    "nivel": 1,
+    "activa": true,
+    "sursa_url": "https://nr1.md/ro/promotions/cookery/",
+    "id_categorie": "CAT010"
+  }
+]

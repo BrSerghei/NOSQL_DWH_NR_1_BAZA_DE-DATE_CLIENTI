@@ -1,0 +1,134 @@
+[
+  {
+    "_id": "BR001",
+    "cod_brand": "BR001",
+    "denumire": "Parmalat",
+    "tara_origine": "Italia",
+    "exclusiv_nr1": true,
+    "categorie_principala": "lactate",
+    "activ": true,
+    "sursa_url": "https://nr1.md/ro/about/",
+    "id_brand": "BR001"
+  },
+  {
+    "_id": "BR002",
+    "cod_brand": "BR002",
+    "denumire": "Barilla",
+    "tara_origine": "Italia",
+    "exclusiv_nr1": true,
+    "categorie_principala": "paste",
+    "activ": true,
+    "sursa_url": "https://nr1.md/ro/about/",
+    "id_brand": "BR002"
+  },
+  {
+    "_id": "BR003",
+    "cod_brand": "BR003",
+    "denumire": "Nordic Seafood",
+    "tara_origine": "Danemarca",
+    "exclusiv_nr1": true,
+    "categorie_principala": "pește congelat",
+    "activ": true,
+    "sursa_url": "https://nr1.md/ro/about/",
+    "id_brand": "BR003"
+  },
+  {
+    "_id": "BR004",
+    "cod_brand": "BR004",
+    "denumire": "Zott",
+    "tara_origine": "Germania",
+    "exclusiv_nr1": true,
+    "categorie_principala": "lactate",
+    "activ": true,
+    "sursa_url": "https://nr1.md/ro/about/",
+    "id_brand": "BR004"
+  },
+  {
+    "_id": "BR005",
+    "cod_brand": "BR005",
+    "denumire": "Hahne",
+    "tara_origine": "Germania",
+    "exclusiv_nr1": true,
+    "categorie_principala": "cereale",
+    "activ": true,
+    "sursa_url": "https://nr1.md/ro/about/",
+    "id_brand": "BR005"
+  },
+  {
+    "_id": "BR006",
+    "cod_brand": "BR006",
+    "denumire": "President",
+    "tara_origine": "Franța",
+    "exclusiv_nr1": false,
+    "categorie_principala": "lactate",
+    "activ": true,
+    "sursa_url": "https://nr1.md/ro/about/",
+    "id_brand": "BR006"
+  },
+  {
+    "_id": "BR007",
+    "cod_brand": "BR007",
+    "denumire": "Coca-Cola",
+    "tara_origine": "SUA",
+    "exclusiv_nr1": false,
+    "categorie_principala": "băuturi",
+    "activ": true,
+    "sursa_url": "https://nr1.md/ro/about/",
+    "id_brand": "BR007"
+  },
+  {
+    "_id": "BR008",
+    "cod_brand": "BR008",
+    "denumire": "Borjomi",
+    "tara_origine": "Georgia",
+    "exclusiv_nr1": false,
+    "categorie_principala": "apă minerală",
+    "activ": true,
+    "sursa_url": "https://nr1.md/ro/about/",
+    "id_brand": "BR008"
+  },
+  {
+    "_id": "BR009",
+    "cod_brand": "BR009",
+    "denumire": "Purcari",
+    "tara_origine": "Moldova",
+    "exclusiv_nr1": false,
+    "categorie_principala": "băuturi",
+    "activ": true,
+    "sursa_url": "https://nr1.md/ro/about/",
+    "id_brand": "BR009"
+  },
+  {
+    "_id": "BR010",
+    "cod_brand": "BR010",
+    "denumire": "Nivea",
+    "tara_origine": "Germania",
+    "exclusiv_nr1": false,
+    "categorie_principala": "igienă personală",
+    "activ": true,
+    "sursa_url": "https://nr1.md/ro/about/",
+    "id_brand": "BR010"
+  },
+  {
+    "_id": "BR011",
+    "cod_brand": "BR011",
+    "denumire": "Ariel",
+    "tara_origine": "SUA",
+    "exclusiv_nr1": false,
+    "categorie_principala": "detergenți",
+    "activ": true,
+    "sursa_url": "https://nr1.md/ro/about/",
+    "id_brand": "BR011"
+  },
+  {
+    "_id": "BR012",
+    "cod_brand": "BR012",
+    "denumire": "Jacobs",
+    "tara_origine": "Germania",
+    "exclusiv_nr1": false,
+    "categorie_principala": "cafea",
+    "activ": true,
+    "sursa_url": "https://nr1.md/ro/about/",
+    "id_brand": "BR012"
+  }
+]

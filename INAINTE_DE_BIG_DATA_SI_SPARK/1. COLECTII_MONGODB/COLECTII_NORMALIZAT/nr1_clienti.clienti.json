@@ -1,0 +1,340 @@
+[{
+  "_id": "CLI001",
+  "cod_client": "CLI001",
+  "nume": "Rusu",
+  "prenume": "Ion",
+  "telefon": "+373 61 471670",
+  "email": "ion.rusu@email.md",
+  "data_inregistrare": "2022-12-11",
+  "card_reducere_id": "CARD001",
+  "magazin_preferat_id": "MAG001",
+  "preferinte_categorii": [
+    "CAT002",
+    "CAT003"
+  ],
+  "activ": true,
+  "id_client": "CLI001"
+},
+{
+  "_id": "CLI002",
+  "cod_client": "CLI002",
+  "nume": "Ceban",
+  "prenume": "Ana",
+  "telefon": "+373 65 891485",
+  "email": "ana.ceban@email.md",
+  "data_inregistrare": "2023-11-19",
+  "card_reducere_id": "CARD002",
+  "magazin_preferat_id": "MAG002",
+  "preferinte_categorii": [
+    "CAT003",
+    "CAT004"
+  ],
+  "activ": true,
+  "id_client": "CLI002"
+},
+{
+  "_id": "CLI003",
+  "cod_client": "CLI003",
+  "nume": "Munteanu",
+  "prenume": "Sergiu",
+  "telefon": "+373 61 692828",
+  "email": "sergiu.munteanu@email.md",
+  "data_inregistrare": "2023-11-01",
+  "card_reducere_id": "CARD003",
+  "magazin_preferat_id": "MAG003",
+  "preferinte_categorii": [
+    "CAT004",
+    "CAT005"
+  ],
+  "activ": true,
+  "id_client": "CLI003"
+},
+{
+  "_id": "CLI004",
+  "cod_client": "CLI004",
+  "nume": "Țurcan",
+  "prenume": "Maria",
+  "telefon": "+373 66 606277",
+  "email": "maria.turcan@email.md",
+  "data_inregistrare": "2022-11-16",
+  "card_reducere_id": "CARD004",
+  "magazin_preferat_id": "MAG004",
+  "preferinte_categorii": [
+    "CAT005",
+    "CAT006"
+  ],
+  "activ": true,
+  "id_client": "CLI004"
+},
+{
+  "_id": "CLI005",
+  "cod_client": "CLI005",
+  "nume": "Lungu",
+  "prenume": "Dumitru",
+  "telefon": "+373 62 433965",
+  "email": "dumitru.lungu@email.md",
+  "data_inregistrare": "2021-07-10",
+  "card_reducere_id": "CARD005",
+  "magazin_preferat_id": "MAG005",
+  "preferinte_categorii": [
+    "CAT006",
+    "CAT007"
+  ],
+  "activ": true,
+  "id_client": "CLI005"
+},
+{
+  "_id": "CLI006",
+  "cod_client": "CLI006",
+  "nume": "Popa",
+  "prenume": "Elena",
+  "telefon": "+373 64 125123",
+  "email": "elena.popa@email.md",
+  "data_inregistrare": "2023-12-06",
+  "card_reducere_id": "CARD006",
+  "magazin_preferat_id": "MAG006",
+  "preferinte_categorii": [
+    "CAT007",
+    "CAT008"
+  ],
+  "activ": true,
+  "id_client": "CLI006"
+},
+{
+  "_id": "CLI007",
+  "cod_client": "CLI007",
+  "nume": "Balan",
+  "prenume": "Victor",
+  "telefon": "+373 65 831838",
+  "email": "victor.balan@email.md",
+  "data_inregistrare": "2021-08-20",
+  "card_reducere_id": "CARD007",
+  "magazin_preferat_id": "MAG007",
+  "preferinte_categorii": [
+    "CAT008",
+    "CAT009"
+  ],
+  "activ": true,
+  "id_client": "CLI007"
+},
+{
+  "_id": "CLI008",
+  "cod_client": "CLI008",
+  "nume": "Moraru",
+  "prenume": "Irina",
+  "telefon": "+373 62 983126",
+  "email": "irina.moraru@email.md",
+  "data_inregistrare": "2021-05-24",
+  "card_reducere_id": "CARD008",
+  "magazin_preferat_id": "MAG008",
+  "preferinte_categorii": [
+    "CAT009",
+    "CAT010"
+  ],
+  "activ": true,
+  "id_client": "CLI008"
+},
+{
+  "_id": "CLI009",
+  "cod_client": "CLI009",
+  "nume": "Rotaru",
+  "prenume": "Andrei",
+  "telefon": "+373 64 886049",
+  "email": "andrei.rotaru@email.md",
+  "data_inregistrare": "2023-03-04",
+  "card_reducere_id": "CARD009",
+  "magazin_preferat_id": "MAG009",
+  "preferinte_categorii": [
+    "CAT010",
+    "CAT001"
+  ],
+  "activ": true,
+  "id_client": "CLI009"
+},
+{
+  "_id": "CLI010",
+  "cod_client": "CLI010",
+  "nume": "Ciobanu",
+  "prenume": "Natalia",
+  "telefon": "+373 65 432062",
+  "email": "natalia.ciobanu@email.md",
+  "data_inregistrare": "2022-07-24",
+  "card_reducere_id": "CARD010",
+  "magazin_preferat_id": "MAG010",
+  "preferinte_categorii": [
+    "CAT001",
+    "CAT002"
+  ],
+  "activ": true,
+  "id_client": "CLI010"
+},
+{
+  "_id": "CLI011",
+  "cod_client": "CLI011",
+  "nume": "Grosu",
+  "prenume": "Vasile",
+  "telefon": "+373 66 758690",
+  "email": "vasile.grosu@email.md",
+  "data_inregistrare": "2023-11-28",
+  "card_reducere_id": "CARD011",
+  "magazin_preferat_id": "MAG011",
+  "preferinte_categorii": [
+    "CAT002",
+    "CAT003"
+  ],
+  "activ": true,
+  "id_client": "CLI011"
+},
+{
+  "_id": "CLI012",
+  "cod_client": "CLI012",
+  "nume": "Ursu",
+  "prenume": "Tatiana",
+  "telefon": "+373 63 968060",
+  "email": "tatiana.ursu@email.md",
+  "data_inregistrare": "2024-12-25",
+  "card_reducere_id": "CARD012",
+  "magazin_preferat_id": "MAG012",
+  "preferinte_categorii": [
+    "CAT003",
+    "CAT004"
+  ],
+  "activ": true,
+  "id_client": "CLI012"
+},
+{
+  "_id": "CLI013",
+  "cod_client": "CLI013",
+  "nume": "Plămădeală",
+  "prenume": "Mihai",
+  "telefon": "+373 62 808786",
+  "email": "mihai.plamadeala@email.md",
+  "data_inregistrare": "2022-03-03",
+  "card_reducere_id": null,
+  "magazin_preferat_id": "MAG013",
+  "preferinte_categorii": [
+    "CAT004",
+    "CAT005"
+  ],
+  "activ": true,
+  "id_client": "CLI013"
+},
+{
+  "_id": "CLI014",
+  "cod_client": "CLI014",
+  "nume": "Guțu",
+  "prenume": "Cristina",
+  "telefon": "+373 63 841103",
+  "email": "cristina.gutu@email.md",
+  "data_inregistrare": "2022-05-03",
+  "card_reducere_id": null,
+  "magazin_preferat_id": "MAG014",
+  "preferinte_categorii": [
+    "CAT005",
+    "CAT006"
+  ],
+  "activ": true,
+  "id_client": "CLI014"
+},
+{
+  "_id": "CLI015",
+  "cod_client": "CLI015",
+  "nume": "Cojocaru",
+  "prenume": "Alexandru",
+  "telefon": "+373 62 875970",
+  "email": "alexandru.cojocaru@email.md",
+  "data_inregistrare": "2024-02-28",
+  "card_reducere_id": null,
+  "magazin_preferat_id": "MAG015",
+  "preferinte_categorii": [
+    "CAT006",
+    "CAT007"
+  ],
+  "activ": true,
+  "id_client": "CLI015"
+},
+{
+  "_id": "CLI016",
+  "cod_client": "CLI016",
+  "nume": "Cazacu",
+  "prenume": "Olga",
+  "telefon": "+373 69 285330",
+  "email": "olga.cazacu@email.md",
+  "data_inregistrare": "2021-10-12",
+  "card_reducere_id": null,
+  "magazin_preferat_id": "MAG016",
+  "preferinte_categorii": [
+    "CAT007",
+    "CAT008"
+  ],
+  "activ": true,
+  "id_client": "CLI016"
+},
+{
+  "_id": "CLI017",
+  "cod_client": "CLI017",
+  "nume": "Melnic",
+  "prenume": "Radu",
+  "telefon": "+373 69 629734",
+  "email": "radu.melnic@email.md",
+  "data_inregistrare": "2023-03-18",
+  "card_reducere_id": null,
+  "magazin_preferat_id": "MAG017",
+  "preferinte_categorii": [
+    "CAT008",
+    "CAT009"
+  ],
+  "activ": true,
+  "id_client": "CLI017"
+},
+{
+  "_id": "CLI018",
+  "cod_client": "CLI018",
+  "nume": "Botezatu",
+  "prenume": "Alina",
+  "telefon": "+373 69 470870",
+  "email": "alina.botezatu@email.md",
+  "data_inregistrare": "2022-09-17",
+  "card_reducere_id": null,
+  "magazin_preferat_id": "MAG001",
+  "preferinte_categorii": [
+    "CAT009",
+    "CAT010"
+  ],
+  "activ": true,
+  "id_client": "CLI018"
+},
+{
+  "_id": "CLI019",
+  "cod_client": "CLI019",
+  "nume": "Postolachi",
+  "prenume": "Petru",
+  "telefon": "+373 63 182097",
+  "email": "petru.postolachi@email.md",
+  "data_inregistrare": "2024-10-01",
+  "card_reducere_id": null,
+  "magazin_preferat_id": "MAG002",
+  "preferinte_categorii": [
+    "CAT010",
+    "CAT001"
+  ],
+  "activ": true,
+  "id_client": "CLI019"
+},
+{
+  "_id": "CLI020",
+  "cod_client": "CLI020",
+  "nume": "Nistor",
+  "prenume": "Diana",
+  "telefon": "+373 60 997532",
+  "email": "diana.nistor@email.md",
+  "data_inregistrare": "2022-06-19",
+  "card_reducere_id": null,
+  "magazin_preferat_id": "MAG003",
+  "preferinte_categorii": [
+    "CAT001",
+    "CAT002"
+  ],
+  "activ": true,
+  "id_client": "CLI020"
+}]
