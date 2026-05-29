@@ -1,0 +1,164 @@
+﻿<MiningStructure xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="84cad017-f6a3-4d42-ba46-cc7dd89b4aef" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>MS_Regresie_Y2_B2B</ID>
+  <Name>MS_Regresie_Y2_B2B</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:CaseTableName</Name>
+      <Value>kpi_KPI_Companii_B2B</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowRelationshipNames</Name>
+      <Value>false</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:UseDiagramDefaultLayout</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
+      <Value>100</Value>
+    </Annotation>
+  </Annotations>
+  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <State>Unprocessed</State>
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="f902b7d2-d7eb-4fa4-bd95-8562ddae2918">
+    <DataSourceViewID>DSV_KPI_B2B</DataSourceViewID>
+  </Source>
+  <Columns>
+    <Column xsi:type="ScalarMiningStructureColumn" dwd:design-time-name="9989f1a2-a1de-4eb6-bba8-e2f8645e02e0">
+      <ID>KPI Key</ID>
+      <Name>KPI Key</Name>
+      <IsKey>true</IsKey>
+      <Type>Long</Type>
+      <Content>Key</Content>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="4c80d4fe-6bd5-46e9-b70e-63095bbc4cdc">
+          <DataType>Integer</DataType>
+          <DataSize>-1</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="3fb7bbda-34eb-41b0-a013-fe4756fac9cc">
+            <TableID>kpi_KPI_Companii_B2B</TableID>
+            <ColumnID>KPIKey</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+    </Column>
+    <Column xsi:type="ScalarMiningStructureColumn" dwd:design-time-name="1e639537-f7a5-49c2-afc2-96d2aded5cef">
+      <ID>Nr Comenzi Angro</ID>
+      <Name>Nr Comenzi Angro</Name>
+      <Type>Long</Type>
+      <Content>Continuous</Content>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="709d86f9-b986-40d7-8c32-bfa76f94c1ed">
+          <DataType>Integer</DataType>
+          <DataSize>-1</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="a2e9de53-76cf-442f-b387-c22b7301c3ae">
+            <TableID>kpi_KPI_Companii_B2B</TableID>
+            <ColumnID>nr_comenzi_angro</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+    </Column>
+    <Column xsi:type="ScalarMiningStructureColumn" dwd:design-time-name="53953b1a-8859-4bf6-967e-1b979a1196b6">
+      <ID>Valoare Medie Comanda Angro Mdl</ID>
+      <Name>Valoare Medie Comanda Angro Mdl</Name>
+      <Type>Double</Type>
+      <Content>Continuous</Content>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="4fce9ed9-8ba9-4239-bf86-5548088a669d">
+          <DataType>Double</DataType>
+          <DataSize>-1</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="3176bb18-4aaf-4f4b-aef3-d9a2dc7a83b3">
+            <TableID>kpi_KPI_Companii_B2B</TableID>
+            <ColumnID>valoare_medie_comanda_angro_mdl</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+    </Column>
+    <Column xsi:type="ScalarMiningStructureColumn" dwd:design-time-name="ca207e72-0a9d-47c0-ba46-ad0da0bd9f4d">
+      <ID>Valoare Totala Angro Mdl</ID>
+      <Name>Valoare Totala Angro Mdl</Name>
+      <Type>Double</Type>
+      <Content>Continuous</Content>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="21b2a634-47b3-4fbb-a506-7b13cc8094e7">
+          <DataType>Double</DataType>
+          <DataSize>-1</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="32a0e9fc-c1b4-4e4f-af3e-98252fbe8f5d">
+            <TableID>kpi_KPI_Companii_B2B</TableID>
+            <ColumnID>valoare_totala_angro_mdl</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+    </Column>
+  </Columns>
+  <MiningModels>
+    <MiningModel dwd:design-time-name="59650d23-733e-46a7-a2cc-b67bcd0c8db6">
+      <ID>MM_LinReg_Y2_B2B</ID>
+      <Name>MM_LinReg_Y2_B2B</Name>
+      <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+      <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+      <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+      <State>Unprocessed</State>
+      <Algorithm>Microsoft_Linear_Regression</Algorithm>
+      <Columns>
+        <Column dwd:design-time-name="b66a1b92-96cd-4b78-97af-a820efa9ff59">
+          <ID>KPI Key</ID>
+          <Name>KPI Key</Name>
+          <SourceColumnID>KPI Key</SourceColumnID>
+          <Usage>Key</Usage>
+        </Column>
+        <Column dwd:design-time-name="84af0aa9-6f03-443b-b88e-8f8fc33f5641">
+          <ID>Nr Comenzi Angro</ID>
+          <Name>Nr Comenzi Angro</Name>
+          <SourceColumnID>Nr Comenzi Angro</SourceColumnID>
+          <ModelingFlags>
+            <ModelingFlag>REGRESSOR</ModelingFlag>
+          </ModelingFlags>
+        </Column>
+        <Column dwd:design-time-name="9e3d530d-94cb-4754-bc71-b9c525c5d417">
+          <ID>Valoare Medie Comanda Angro Mdl</ID>
+          <Name>Valoare Medie Comanda Angro Mdl</Name>
+          <SourceColumnID>Valoare Medie Comanda Angro Mdl</SourceColumnID>
+          <Usage>PredictOnly</Usage>
+          <ModelingFlags>
+            <ModelingFlag>REGRESSOR</ModelingFlag>
+          </ModelingFlags>
+        </Column>
+        <Column dwd:design-time-name="8d18d263-2f67-4958-83e3-4526005e18f2">
+          <ID>Valoare Totala Angro Mdl</ID>
+          <Name>Valoare Totala Angro Mdl</Name>
+          <SourceColumnID>Valoare Totala Angro Mdl</SourceColumnID>
+          <ModelingFlags>
+            <ModelingFlag>REGRESSOR</ModelingFlag>
+          </ModelingFlags>
+        </Column>
+      </Columns>
+    </MiningModel>
+  </MiningModels>
+  <ddl100_100:HoldoutMaxPercent>30</ddl100_100:HoldoutMaxPercent>
+</MiningStructure>

@@ -1,0 +1,97 @@
+﻿<DataSourceView xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="07e2b397-3ad0-4d85-8b7b-59dcb136d985" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>DSV_KPI_B2B</ID>
+  <Name>DSV_KPI_B2B</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:CurrentLayout</Name>
+      <Value>_ALL_TABLES_</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:SchemaRestriction</Name>
+      <Value></Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:RetrieveRelationships</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:Layouts</Name>
+      <Value>
+        <Layouts xmlns="">
+          <Diagram>
+            <Name>_ALL_TABLES_</Name>
+            <DiagramLayout />
+            <ShowRelationshipNames>False</ShowRelationshipNames>
+            <UseDiagramDefaultLayout>True</UseDiagramDefaultLayout>
+            <DiagramViewPortLeft>0</DiagramViewPortLeft>
+            <DiagramViewPortTop>0</DiagramViewPortTop>
+            <DiagramBoundingLeft>0</DiagramBoundingLeft>
+            <DiagramBoundingTop>0</DiagramBoundingTop>
+            <DiagramZoom>100</DiagramZoom>
+          </Diagram>
+        </Layouts>
+      </Value>
+    </Annotation>
+  </Annotations>
+  <DataSourceID>DWH_Nr1_Comun_DS</DataSourceID>
+  <Schema>
+    <xs:schema id="DSV_KPI_B2B" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+      <xs:element name="DSV_KPI_B2B" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:design-time-name="691b1d28-fcfd-4dba-a737-cf9e865aa566">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="kpi_KPI_Companii_B2B" msprop:design-time-name="5e4bbcf9-bdf6-4db5-9400-d56aeffdc803" msprop:DbTableName="KPI_Companii_B2B" msprop:FriendlyName="KPI_Companii_B2B" msprop:DbSchemaName="kpi" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="KPIKey" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="ceafe291-e17c-4928-9d88-f141a4a6a68d" msprop:DbColumnName="KPIKey" msprop:FriendlyName="KPIKey" type="xs:int" />
+                  <xs:element name="sursa_model" msprop:design-time-name="ef35a444-be81-4dc7-9692-e703aab578bb" msprop:DbColumnName="sursa_model" msprop:FriendlyName="sursa_model" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="30" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="id_companie" msprop:design-time-name="f20b468b-f6fa-4fdc-99d2-942706752811" msprop:DbColumnName="id_companie" msprop:FriendlyName="id_companie" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="20" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="denumire_companie" msprop:design-time-name="73cdb264-7f9f-436a-8bfb-0f6c174a4958" msprop:DbColumnName="denumire_companie" msprop:FriendlyName="denumire_companie" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="200" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="tip_activitate" msprop:design-time-name="4a259c5f-7f2e-40b0-95d2-1d86f87de821" msprop:DbColumnName="tip_activitate" msprop:FriendlyName="tip_activitate" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="100" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="nr_comenzi_angro" msprop:design-time-name="4455617b-e220-40f7-a5b0-98fe42d6a914" msprop:DbColumnName="nr_comenzi_angro" msprop:FriendlyName="nr_comenzi_angro" type="xs:int" minOccurs="0" />
+                  <xs:element name="valoare_totala_angro_mdl" msprop:design-time-name="eba3d068-b74c-4874-a885-23b90d5f46cc" msprop:DbColumnName="valoare_totala_angro_mdl" msprop:FriendlyName="valoare_totala_angro_mdl" type="xs:decimal" minOccurs="0" />
+                  <xs:element name="valoare_medie_comanda_angro_mdl" msprop:design-time-name="f6134110-c83f-49fa-ae85-107cd1b9a155" msprop:DbColumnName="valoare_medie_comanda_angro_mdl" msprop:FriendlyName="valoare_medie_comanda_angro_mdl" type="xs:decimal" minOccurs="0" />
+                  <xs:element name="data_calcul" msprop:design-time-name="514482c7-5374-449e-9551-a1db74b78cc3" msprop:DbColumnName="data_calcul" msprop:FriendlyName="data_calcul" type="xs:dateTime" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+        <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//kpi_KPI_Companii_B2B" />
+          <xs:field xpath="KPIKey" />
+        </xs:unique>
+      </xs:element>
+    </xs:schema>
+    <DSV_KPI_B2B xmlns="" />
+  </Schema>
+</DataSourceView>

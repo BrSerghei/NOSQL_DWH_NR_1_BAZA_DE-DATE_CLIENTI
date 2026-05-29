@@ -1,0 +1,90 @@
+﻿<DataSourceView xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="2d7df135-7e87-4092-8edf-08c124b20b68" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>DSV_KPI_B2C</ID>
+  <Name>DSV_KPI_B2C</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:CurrentLayout</Name>
+      <Value>_ALL_TABLES_</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:SchemaRestriction</Name>
+      <Value></Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:RetrieveRelationships</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:Layouts</Name>
+      <Value>
+        <Layouts xmlns="">
+          <Diagram>
+            <Name>_ALL_TABLES_</Name>
+            <DiagramLayout />
+            <ShowRelationshipNames>False</ShowRelationshipNames>
+            <UseDiagramDefaultLayout>True</UseDiagramDefaultLayout>
+            <DiagramViewPortLeft>0</DiagramViewPortLeft>
+            <DiagramViewPortTop>0</DiagramViewPortTop>
+            <DiagramBoundingLeft>0</DiagramBoundingLeft>
+            <DiagramBoundingTop>0</DiagramBoundingTop>
+            <DiagramZoom>100</DiagramZoom>
+          </Diagram>
+        </Layouts>
+      </Value>
+    </Annotation>
+  </Annotations>
+  <DataSourceID>DWH_Nr1_Comun_DS</DataSourceID>
+  <Schema>
+    <xs:schema id="DSV_KPI_B2C" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+      <xs:element name="DSV_KPI_B2C" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:design-time-name="97fdec13-6dea-450c-b846-301ddc072716">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="kpi_KPI_Clienti_B2C" msprop:design-time-name="827c8664-0c76-4ed3-ae16-175f5df99fb9" msprop:DbTableName="KPI_Clienti_B2C" msprop:FriendlyName="KPI_Clienti_B2C" msprop:DbSchemaName="kpi" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="KPIKey" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="0233b49c-c942-43f2-8914-f0d1d3de0c12" msprop:DbColumnName="KPIKey" msprop:FriendlyName="KPIKey" type="xs:int" />
+                  <xs:element name="sursa_model" msprop:design-time-name="b9595292-df95-40a6-a4f1-4ac147e9193d" msprop:DbColumnName="sursa_model" msprop:FriendlyName="sursa_model" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="30" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="id_client" msprop:design-time-name="a871fb8e-6faa-4234-8c88-025307e04cb9" msprop:DbColumnName="id_client" msprop:FriendlyName="id_client" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="20" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="nume_client" msprop:design-time-name="8304c3f2-512a-4199-87dd-bb06e0612c0d" msprop:DbColumnName="nume_client" msprop:FriendlyName="nume_client" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="220" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="nr_comenzi" msprop:design-time-name="d9815425-1f1a-49fb-a17d-f41954a9951b" msprop:DbColumnName="nr_comenzi" msprop:FriendlyName="nr_comenzi" type="xs:int" minOccurs="0" />
+                  <xs:element name="valoare_totala_mdl" msprop:design-time-name="77bc38d8-cf41-43f2-aa60-c18102267784" msprop:DbColumnName="valoare_totala_mdl" msprop:FriendlyName="valoare_totala_mdl" type="xs:decimal" minOccurs="0" />
+                  <xs:element name="valoare_medie_comanda_mdl" msprop:design-time-name="8e468658-b638-45cb-9e22-24381f3547ae" msprop:DbColumnName="valoare_medie_comanda_mdl" msprop:FriendlyName="valoare_medie_comanda_mdl" type="xs:decimal" minOccurs="0" />
+                  <xs:element name="data_calcul" msprop:design-time-name="32d8e824-b210-4a16-9b0b-bccf7bbd685f" msprop:DbColumnName="data_calcul" msprop:FriendlyName="data_calcul" type="xs:dateTime" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+        <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//kpi_KPI_Clienti_B2C" />
+          <xs:field xpath="KPIKey" />
+        </xs:unique>
+      </xs:element>
+    </xs:schema>
+    <DSV_KPI_B2C xmlns="" />
+  </Schema>
+</DataSourceView>
