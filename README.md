@@ -1,6 +1,4 @@
 # Retail Data Platform & Analytics Architecture (DWH & MongoDB & PySpark)
-
-> **Author:** Serghei Brodovoi (Group SD-251)  
 > **Project Type:** Synthesis Annual Project / Course Work  
 > **Domain:** Retail Analytics, Data Warehousing, NoSQL Document Databases, Big Data Processing & Machine Learning  
 
@@ -210,9 +208,3 @@ streamlit run app.py
 * **Frontend Dashboard:** Streamlit
 
 ---
-
-## 👤 Author Information
-
-* **Developer:** Serghei Brodovoi
-* **Group:** SD-251
-* **Academic Context:** Course Work / Annual Synthesis Project (Lucrare de An Sintetizată)
